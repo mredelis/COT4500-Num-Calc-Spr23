@@ -2,7 +2,7 @@
 
 This repo consists of 3 assignments and a bonus projects.
 
-Per the instruction of Assignment 1, a requirements.txt file had to be included in the repo
+Per the instruction of Assignment 1, a requirements.txt file had to be included in the repo. For assignments 2 and 3, this file is optional
 
 ## Assignment 1
 
